@@ -3,7 +3,7 @@
 
 ## Overview
 
-**Jua Animate** is a custom JavaScript animation library designed to provide flexible animation utilities. 
+**Jua Animate** is a custom JavaScript animation library depends on the Jua Js ,designed to provide flexible animation utilities. 
 It includes easing functions, color handling, transformations, and advanced timeline controls. This document explains the structure and purpose of the library.
 
 ---
